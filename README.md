@@ -1,6 +1,6 @@
 This repository contains the code for YouTube
 videos found on my channel at 
-![Otto Vintola](https://m.youtube.com/channel/UCqoyDZUv5sg0woJif9pQeLg)
+[Otto Vintola](https://m.youtube.com/channel/UCqoyDZUv5sg0woJif9pQeLg)
 
 ```
 📁 YouTube
